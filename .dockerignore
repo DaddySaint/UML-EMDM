@@ -1,0 +1,13 @@
+# Ignore the dev tools folder
+UML-EMDM/
+
+# Ignore system files
+.git
+.gitignore
+__pycache__
+*.pyc
+
+# Ignore the local virtual environment (Important!)
+.venv/
+env/
+venv/

@@ -1,0 +1,14 @@
+# Environments
+venv/
+env/
+.env
+
+# Database (Wag isama ang live db)
+library_mdm.db
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
